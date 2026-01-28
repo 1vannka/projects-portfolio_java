@@ -3,13 +3,6 @@ This README is available in other languages:
 
 # Projects-portfolio
 
-## C#
-
-The `CSharp_projects` folder contains C# projects demonstrating various principles of object-oriented programming, SOLID, GRASP, and design patterns.  
-Each project is self-contained, includes unit tests, and focuses on specific concepts.  
-
-See more in the [C# Projects README](CSharp_projects/README.md).
-
 ## Java
 
 The `Java_projects` folder contains Java projects illustrating the evolution of architecture: from console applications to modern web and microservice solutions.  
